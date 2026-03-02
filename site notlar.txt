@@ -1,5 +1,0 @@
-Kendi sitem için 
-1-Navbar kısmına games kısmı eklenecek farklı siteye yönlendirilip çeşit çeşit nostaljik oyunlar olacak
-2- projelerim kısmında yapılan projeler küçük kartlarda olacak üstüne gelince kart büyüyecek tiklanilinca kart büyümüş kalacak.
- küçük bilgiler olacak ve kartın sağ altında get visited ve more than kısmı olacak.
- get visited kısmı projeyi ziyaret edecek more than kısmı da farklı bir sekmede yapılan projeleri detaylı şekilde gösterecek
